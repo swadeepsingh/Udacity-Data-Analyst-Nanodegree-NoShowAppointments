@@ -78,6 +78,8 @@ Most no-shows appointments were on Tuesdays.
 
 65.4% of patients who didn't show up on appointment date were females.
 
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-NoShowAppointments/blob/master/3.png?raw=true)
+
 ## Results:
 
 1.Patients who has booked appointments more than 2 days ago are the one who didn't show-up on appointment day. 
