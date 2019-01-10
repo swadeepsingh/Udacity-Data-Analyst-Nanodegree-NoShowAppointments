@@ -30,6 +30,7 @@ No-show appointments dataset is a collection of information from 100k medical ap
 
 7.Which gender group generally don't show-up on appointment day ?
 
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-NoShowAppointments/blob/master/2.png?raw=true)
 
 ## Conclusions
 
