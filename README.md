@@ -12,6 +12,7 @@
 
 No-show appointments dataset is a collection of information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. The dataset capture the information about patient's age, gender, medical history (diabetes, hipertension, etc.), and lifestyle (alcoholism, etc.) with complete appointment details and has a final indicater that whether a patient showed up on the day of appointment or not. Each patient is allocated with a patientID.
 
+![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-NoShowAppointments/blob/master/1.png?raw=true)
 
 ## Questions to be investigated:
 
