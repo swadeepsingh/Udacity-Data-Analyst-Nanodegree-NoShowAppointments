@@ -80,16 +80,15 @@ Most no-shows appointments were on Tuesdays.
 
 ## Results:
 
-    1. Patients who has booked appointments more than 2 days ago are the one who didn't show-up on appointment day. 
+1. Patients who has booked appointments more than 2 days ago are the one who didn't show-up on appointment day. 
 
-    2. Highest number of no-show appointments were in JARDIM CAMBURI (1465) neighborhood. 
+2. Highest number of no-show appointments were in JARDIM CAMBURI (1465) neighborhood. 
 
-    3. 65.4% of patients who didn't show up on appointment date were females.
+3. 65.4% of patients who didn't show up on appointment date were females.
 
-    4. Patients who received an SMS had a no-show appointments percentage of ~ 27%
+4. Patients who received an SMS had a no-show appointments percentage of ~ 27%
 
-    5. Most no-show appointment patients has "No-diabetes, No-hypertension, 
-    and No-alcoholism" & also the handicap level with disability level 0.
+5. Most no-show appointment patients has "No-diabetes, No-hypertension, and No-alcoholism" & also the handicap level with disability level 0.
 
 
 ## Limitations:
