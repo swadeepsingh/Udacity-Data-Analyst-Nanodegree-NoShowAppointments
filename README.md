@@ -88,11 +88,14 @@ Most no-shows appointments were on Tuesdays.
 
     4. Patients who received an SMS had a no-show appointments percentage of ~ 27%
 
-    5. Most no-show appointment patients has "No-diabetes, No-hypertension, and No-alcoholism" & also the handicap level with disability level 0.
+    5. Most no-show appointment patients has "No-diabetes, No-hypertension, 
+    and No-alcoholism" & also the handicap level with disability level 0.
 
 
 ## Limitations:
 
-    1. Information regarding the appointment if given like the medical condition for which patient wants to counsult the doctor. 
+    1. Information regarding the appointment if given like the medical condition 
+    for which patient wants to counsult the doctor. 
 
-    2. It would be interesting to know why some patients received an SMS. If these patients had habit of not showing up in previous appointments it would explain the no-show percentage.
+    2. It would be interesting to know why some patients received an SMS. 
+    If these patients had habit of not showing up in previous appointments it would explain the no-show percentage.
