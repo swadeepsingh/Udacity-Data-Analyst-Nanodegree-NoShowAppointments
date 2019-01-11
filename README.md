@@ -2,11 +2,9 @@
 
 ## Table of Contents
 
-  Introduction
-  
-  Exploratory Data Analysis
-  
-  Conclusions
+    Introduction
+    Exploratory Data Analysis
+    Conclusions
 
 ## Introduction
 
@@ -16,21 +14,23 @@ No-show appointments dataset is a collection of information from 100k medical ap
 
 ## Questions to be investigated:
 
-1.Does age play a role that whether or not patient show up for their appointment?
+    1. Does age play a role that whether or not patient show up for their appointment?
 
-2.How does patient's medical history, lifestyle, physical fitness affects appointments?
+    2. How does patient's medical history, lifestyle, physical fitness affects appointments?
 
-3.Which neighborhoods have the highest number of no-shows?
+    3. Which neighborhoods have the highest number of no-shows?
 
-4.What is the trend of no-shows vs shows by patients that received SMS reminders?
+    4. What is the trend of no-shows vs shows by patients that received SMS reminders?
 
-5.Does difference between schedule date and appointment date results in no-shows?
+    5. Does difference between schedule date and appointment date results in no-shows?
 
-6.Are patients failing to appear on specific days of the week?
+    6. Are patients failing to appear on specific days of the week?
 
-7.Which gender group generally don't show-up on appointment day ?
+    7. Which gender group generally don't show-up on appointment day ?
+
 
 ![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-NoShowAppointments/blob/master/2.png?raw=true)
+
 
 ## Conclusions
 
@@ -52,15 +52,11 @@ The inference from above analysis shows that the alcoholism percentage for both 
 
 Top 5 no-show appointments neighborhood
 
-1.JARDIM CAMBURI 1465
-
-2.MARIA ORTIZ 1219
-
-3.ITARARÉ 923
-
-4.RESISTÊNCIA 906
-
-5.CENTRO 703
+    1. JARDIM CAMBURI   1465
+    2. MARIA ORTIZ      1219
+    3. ITARARÉ          923
+    4. RESISTÊNCIA      906
+    5. CENTRO           703
 
 ### Q4. What is the trend of no-shows vs shows by patients that received SMS reminders?
 
@@ -78,21 +74,25 @@ Most no-shows appointments were on Tuesdays.
 
 65.4% of patients who didn't show up on appointment date were females.
 
+
 ![alt text](https://github.com/swadeepsingh/Udacity-Data-Analyst-Nanodegree-NoShowAppointments/blob/master/3.png?raw=true)
+
 
 ## Results:
 
-1.Patients who has booked appointments more than 2 days ago are the one who didn't show-up on appointment day. 
+    1. Patients who has booked appointments more than 2 days ago are the one who didn't show-up on appointment day. 
 
-2.Highest number of no-show appointments were in JARDIM CAMBURI (1465) neighborhood. 
+    2. Highest number of no-show appointments were in JARDIM CAMBURI (1465) neighborhood. 
 
-3.65.4% of patients who didn't show up on appointment date were females.
+    3. 65.4% of patients who didn't show up on appointment date were females.
 
-4.Patients who received an SMS had a no-show appointments percentage of ~ 27%
+    4. Patients who received an SMS had a no-show appointments percentage of ~ 27%
 
-5.Most no-show appointment patients has "No-diabetes, No-hypertension, and No-alcoholism" & also the handicap level with disability level 0.
+    5. Most no-show appointment patients has "No-diabetes, No-hypertension, and No-alcoholism" & also the handicap level with disability level 0.
+
 
 ## Limitations:
-1.Information regarding the appointment if given like the medical condition for which patient wants to counsult the doctor. 
 
-2.It would be interesting to know why some patients received an SMS. If these patients had habit of not showing up in previous appointments it would explain the no-show percentage.
+    1. Information regarding the appointment if given like the medical condition for which patient wants to counsult the doctor. 
+
+    2. It would be interesting to know why some patients received an SMS. If these patients had habit of not showing up in previous appointments it would explain the no-show percentage.
